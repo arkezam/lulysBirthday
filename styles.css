@@ -42,7 +42,7 @@ body {
 /* En la clase corazon vamos a llamar latidos en la animación  */
 .corazon {
 display: inline-block;
-font-size: 100px;
+font-size: 60px;
 text-shadow: 0 0 10px #222,1px 1px  0 #450505;
 color: red;
 animation: latidos 2.5s infinite;
